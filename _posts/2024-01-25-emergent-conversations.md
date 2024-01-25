@@ -102,6 +102,4 @@ Amazon is doing this with their [memo meeting culture](https://commoncog.com/wor
 
 This at the very least creates space where emergent conversations can happen.
 
-Like you don't have to invite me to your podcast to just have me receite what I wrote here.
-
-But if you're open to a spontaneous and genuine conversation, one where we both might discover something new, I'm definitely game.
+Would love to hear if anyone has any other tips!
