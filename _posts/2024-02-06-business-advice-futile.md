@@ -1,8 +1,8 @@
 ---
-title: Why most business advice is futiles
+title: The Business Context Fallacy
 published: true
 layout: post
-permalink: business-advice-futile
+permalink: business-context-fallacy
 excerpt: That almost sounds too good to be true.
 image: /images/default.png
 categories: entrepreneurship
