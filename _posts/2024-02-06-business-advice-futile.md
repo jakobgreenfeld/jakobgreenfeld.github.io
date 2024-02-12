@@ -1,5 +1,5 @@
 ---
-title: Why most business advice is futile
+title: Why most business advice is futiles
 published: true
 layout: post
 permalink: business-advice-futile
