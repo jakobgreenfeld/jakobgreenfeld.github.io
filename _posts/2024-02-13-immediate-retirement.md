@@ -63,3 +63,4 @@ Play boardgames.
 
 Whatever experiences you usually only reserve for holidays, you know, [you are allowed](https://milan.cvitkovic.net/writing/things_youre_allowed_to_do/) to implement them regularly into your normal life.
 
+And that's how you can effectively retire *today*.
