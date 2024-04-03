@@ -43,7 +43,7 @@ You built a team of A-players and you are charging a premium for your services. 
 
 You charge a premium for your services and focus on a specific type of client where you can deliver the most value to justify your premium pricing.
 
-When we started [our agency](https://sales.co) we had no clarity on which game we were playing. We were trying to do a little bit of everything. 
+When we started [our agency](https://sales.co?utm_source=landing_page&utm_medium=referral&utm_campaign=greenfeld) we had no clarity on which game we were playing. We were trying to do a little bit of everything. 
 
 However, we quickly learned that the McDonalds approach was not for us. You have to love micro-managing to make it work.
 
