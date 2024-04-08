@@ -61,5 +61,5 @@ It doesn’t have to be expensive or crazy, just something different, something 
 
 In the hustle and bustle of everyday life it’s easy to forget that there are literally infinitely many different things you could be doing at every single moment.
 
-Always remember that the world is your oyster.
+The world is your oyster, you know.
 
