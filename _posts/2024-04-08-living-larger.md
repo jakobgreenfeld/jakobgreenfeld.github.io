@@ -48,18 +48,18 @@ Having a different view in front of you, being surrounded by different people, d
 
 I’m also dedicating time every week to plan mini adventures.
 
-These “adventures” can be as simple as exploring a new walking path, going to a new restaurant, or buying some paint and painting a picture.
+These “adventures” can be as simple as exploring a new walking path, going to a new restaurant, or buying some paint and start painting,
 
 {:.centered}
 ![](/images/painted.jpeg)
 
 I have a big list titled “Living Larger” where I’m constantly saving ideas.
 
-Each week I pick at least one and schedule it on my calendar.
+Every week I pick at least one and schedule it on my calendar.
 
 It doesn’t have to be expensive or crazy, just something different, something I normally don’t do.
 
 In the hustle and bustle of everyday life it’s easy to forget that there are literally infinitely many different things you could be doing at every single moment.
 
-The world is your oyster, you know.
+The world is your oyster, if you choose to make it so. 
 
