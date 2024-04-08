@@ -12,7 +12,7 @@ I once read that for addicts reality distorts so that only once choice is left.
 
 In some weaker form this seems to me like a standard feature of the human condition.
 
-Everyone has a natural tendency to stick to same, safe stuff over and over again.
+Everyone has a tendency to stick to same, safe stuff over and over again.
 
 There is a natural force that pulls you towards the same places, same people, same ideas, same behaviours.
 
