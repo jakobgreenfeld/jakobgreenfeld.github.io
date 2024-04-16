@@ -15,7 +15,7 @@ categories: entrepreneurship, inner-game
 ## Summary
 
 * People believe that complex solutions are better, that big problems require big complicated solutions, when usually that's not the case.
-* Most entrepreneurs and marketers suffer from business astigmatism. They can't see the forest for the trees. They do not understand that so many things that are completely obvious to them are fascinating and novel to outsides. Instead of trying to come up with complex narratives, they should simply state the obvious. Simple ads that explain what the product is/does and why it's different work. No need for smart ideas.
+* Most entrepreneurs and marketers suffer from business astigmatism. They can't see the forest for the trees. They do not understand that so many things that are completely obvious to them are fascinating and novel to outsiders. Instead of trying to come up with complex narratives, they should simply state the obvious. Simple ads that explain what the product is/does and why it's different work. No need for smart ideas.
 
 
 ## Highlights
