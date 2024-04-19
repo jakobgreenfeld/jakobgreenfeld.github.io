@@ -8,7 +8,7 @@ image: /images/default.png
 categories: entrepreneurship, inner-game
 ---
 
-Paul Graham wrote a [13,000 mega essay](https://paulgraham.com/greatwork.html) on how to do great work but the essence of it is a small paragraph near the end:
+Paul Graham wrote a [12,000-word mega essay](https://paulgraham.com/greatwork.html) on how to do great work but the essence of it is a small paragraph near the end:
 
 > Curiosity is the best guide. Your curiosity never lies, and it knows more than you do about what's worth paying attention to.
 
@@ -42,7 +42,7 @@ At this time, his approach was very different.
 
 > I find an idea that was interesting. I would try to figure out that idea for myself, and then I'd figure out for myself, and I'd say, well, then I got to share this with other people. And I never stopped. That's all I did, and that's all I focused on. 
 
-Once he recognized this and went back to just following his curiosity, the slump instantly disappeared.
+Once he recognized this and went back to just following his curiosity, the slump instantly disappeared and he started producing great work again.
 
 And Shaan Puri confirms:
 
