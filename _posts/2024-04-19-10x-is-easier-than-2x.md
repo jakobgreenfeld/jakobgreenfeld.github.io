@@ -80,6 +80,8 @@ categories: profiles
 
 "To go 10x requires committing fully to the 20 percent you most resonate with and eliminate everything that can’t or won’t go 10x with you. You quit everything that can’t go 10x from here, even if that means eliminating the best of what got you here."
 
+"Wherever you are now, going 10x from here will require a total remodeling of both yourself and your business."
+
 ## Useful Prompts
 
 * What is your 20 percent that if you went all-in on, you’d become 10x more valuable and impactful? 
