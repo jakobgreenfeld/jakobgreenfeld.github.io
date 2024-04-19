@@ -66,7 +66,7 @@ As Steve Jobs noted:
 
 > “You can’t connect the dots looking forward, you can only connect them looking backwards. So, you have to trust that the dots will somehow connect in your future. You have to trust in something: your gut, destiny, life, karma, whatever. Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well-worn path.”
 
-I have my own theories how and why this approach works.
+I have my own theory how and why this approach works.
 
 When you're using spreadsheets or rely on narratives in your head like "this will sound so cool when I tell people about it at the next party", you're [allowing your left brain take charge](https://jakobgreenfeld.com/thinking).
 
