@@ -79,3 +79,12 @@ categories: profiles
 "Every great leader must face the dilemma of quitting the wrong stuff—even the stuff that’s been your bread and butter for years or decades—to become the best at what you do and realize 10x results."
 
 "To go 10x requires committing fully to the 20 percent you most resonate with and eliminate everything that can’t or won’t go 10x with you. You quit everything that can’t go 10x from here, even if that means eliminating the best of what got you here."
+
+## Useful Prompts
+
+* What is your 20 percent that if you went all-in on, you’d become 10x more valuable and impactful? 
+* Which 20% of your clients drive 80% of revenue?
+* Which 20% of the things your business does provides 80% of the value?
+* Which 20% of your inputs drive 80% of your outputs?
+* What are the few things you do and the few people you work with that produce most of your success and excitement? 
+* What is your 80 percent that is keeping you grinding away, and ultimately a distraction for your biggest future jumps?
