@@ -8,7 +8,7 @@ image: /images/default.png
 categories: profiles
 ---
 
-* Solid ideas, but would have benefited from a larger number of specific, modern examples. 
+* Solid ideas, but would have benefited from a larger number of specific, modern examples. Also quite repetitive.
 * Some chapters seemed very out of place. They were short summaries of other books by the author and the connections to this book felt very forced. Seemed like they were only included to make the book longer.
 * Arguably the most important question ("how exactly do you identify the 20% you should focus on to 10x") wasn't really answered.
 * Overall a 6/10 for me.
