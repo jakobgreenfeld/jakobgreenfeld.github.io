@@ -42,9 +42,9 @@ At this time, his approach was very different.
 
 > I find an idea that was interesting. I would try to figure out that idea for myself, and then I'd figure out for myself, and I'd say, well, then I got to share this with other people. And I never stopped. That's all I did, and that's all I focused on. 
 
-Once he realized this and switched back to just following his curiosity, there was immediately no more slump.
+Once he recognized this and went back to just following his curiosity, the slump instantly disappeared.
 
-And Shaan confirms:
+And Shaan Puri confirms:
 
 > If you don't know which path to choose, just choose the one that's most exciting. Just keep following that, and that will lead you to the right place. Excitement is the engine and the rudder, I think, is a really powerful idea. And every time I've drifted away from that like you did, I start with that good things happen, and then I'm like, ooh, now, ambition is the driver, or doing something that sounds cool or important or money is the driver. And then all the bad things happen, and I'm like, shit, why aren't these working? And it's like, well, because you stopped doing the working formula, which was leading to all these great things, because you thought you needed to do something different.
 
@@ -72,11 +72,11 @@ When you're using spreadsheets or rely on narratives in your head like "this wil
 
 But your left brain is the Berlusconi of the Brain.
 
-It's loud, controls the media (that voice in your head), and largely out of touch with reality.
+It's loud, controls the media (that voice in your head), and is largely out of touch with reality.
 
 When you follow your curiosity, you give more power to your right brain.
 
-The right brain is much better connected to the whole around you. It's fine with ambiguity and doesn't need fully verbalized trains of thought to identify patterns.
+The right brain is much better connected to the whole around you. It's fine with ambiguity and doesn't need fully verbalized trains of thought to pattern match.
 
 {:.centered}
 ![from The Divided Brain and the Search for Meaning by Ian McGilchrist](/images/lh_rh_images.png)
@@ -121,7 +121,7 @@ The right brain is able to grasp the whole forest not just the trees.
 
 Hence it's extremely well suited to steer you in the right direction.
 
-But since it doesn't have access to the media the same way your left brain has, it often feels like magic when these decision play our in your favor.
+But since it doesn't have access to the media the same way your left brain has, it often feels like magic when these decision play out in your favor.
 
 The universe isn't conspiring to help you and and excitement isn't some mystical force.
 
