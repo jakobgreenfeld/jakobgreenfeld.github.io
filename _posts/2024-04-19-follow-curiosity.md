@@ -8,13 +8,9 @@ image: /images/default.png
 categories: entrepreneurship, inner-game
 ---
 
-Paul Graham wrote a [13,000 mega essay](https://paulgraham.com/greatwork.html) on how to do great work but the essence of it is a small paragraph right at the start:
+Paul Graham wrote a [13,000 mega essay](https://paulgraham.com/greatwork.html) on how to do great work but the essence of it is a small paragraph near the end:
 
-> There's a kind of excited curiosity that's both the engine and the rudder of great work. It will not only drive you, but if you let it have its way, will also show you what to work on. What are you excessively curious about — curious to a degree that would bore most other people? That's what you're looking for.
-
-He repeats near the end:
-
-> Curiosity is the best guide. Your curiosity never lies, and it knows more than you do about what's worth paying attention to. Notice how often that word has come up. If you asked an oracle the secret to doing great work and the oracle replied with a single word, my bet would be on "curiosity."
+> Curiosity is the best guide. Your curiosity never lies, and it knows more than you do about what's worth paying attention to.
 
 This is an incredibly underrated observation.
 
