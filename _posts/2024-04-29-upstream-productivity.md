@@ -2,9 +2,8 @@
 title: Upstream Productivity - or the day you stopped caring about productivity advice
 published: true
 layout: post
-permalink: 
-excerpt:
-image: /images/default.png
+excerpt: Motivation hacks, building a second brain, ... everyone is happily eating it up.
+image: /images/upstream-productivity.png
 categories: entrepreneurship, inner-game
 ---
 
