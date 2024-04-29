@@ -21,9 +21,9 @@ One thing I have been chewing on for a while is productivity.
 
 It's a huge topic with thousands of books written about it.
 
-And like many people I do feel a natural pull to read as many books and articles about it as possible.
+And like many people I do feel a pull to read as much as possible on the topic.
 
-But slowly I've started to feel like I'm finally able to strip away the lies and get to the bottom of it.
+But lately I've started to feel like I'm finally able to strip away the lies and get to the bottom of it.
 
 One observation is that most people who write about productivity [have no serious context of use](https://notes.andymatuschak.org/z51q8prEJzs5Jqa5WPThYoV).
 
