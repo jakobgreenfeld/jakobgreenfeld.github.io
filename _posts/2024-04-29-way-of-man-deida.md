@@ -8,6 +8,9 @@ image: /images/default.png
 categories: entrepreneurship, inner-game
 ---
 
+* I started reading the book a few times but never made it past the first few pages. But this time for whatever reason it "clicked".
+* If the timing is right, it's one of these books that fit Kafka's description of books as "the axe for the frozen sea within you".
+* Overall a 9/10 for me.
 
 ## Find your Purpose/Mission
 
