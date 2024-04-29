@@ -12,7 +12,7 @@ categories: entrepreneurship, inner-game
 * If the timing is right, it's one of these books that fit Kafka's description of books as "the axe for the frozen sea within you".
 * Overall a 9/10 for me.
 
-## Find your Purpose/Mission
+## Purpose/Mission
 
 "If you have a more masculine sexual essence, you would, of course, enjoy staying home and playing with the kids, but deep down, you are driven by a sense of mission. You may not know your mission, but unless you discover this deep purpose and live it fully, your life will feel empty at its core, even if your intimate relationship and family life are full of love."
 
@@ -31,6 +31,7 @@ categories: entrepreneurship, inner-game
 "A man must know the truth at his core and be willing to give his gifts fully. No holding back. He must be willing to dedicate his sex and his life to magnifying love by penetrating woman and world with his true gifts. This willingness is rare."
 
 ## On Finding your Mission
+
 
 “Each purpose, each mission, is meant to be fully lived to the point where it becomes empty, boring, and useless. Then it should be discarded. This is a sign of growth, but you may mistake it for a sign of failure.”
 
@@ -54,9 +55,19 @@ categories: entrepreneurship, inner-game
 
 "As long as life continues, the creative challenge is to tussle, play, and make love with the present moment while giving your unique gift."
 
+"You are your mission, and if you don’t know it, you are not relaxed in the moment. So you don’t have to find your mission, you need to relax in the moment to discover it. It is being shown to you right now. You are being lived by a force deeper than you. Masculine practice is intuitively feeling and identifying with that force so that when you wake up in the morning, you are lived by your mission. If you don’t know what that is, it is because you are thinking. Your mind will never know your mission. You will never feel your mission if you are attending to your thoughts hoping to see what your mission is in the future. 
+
+A classic exercise in The Way of the Superior Man is for you to set up a place in the living room or a tent in your backyard to just go and sit and not move. At some point you have to pee, so your mission, in that moment, is to stand up and pee. It is very clear. After you pee, if you don’t know what your mission is, you just sit down. Maybe it will be a week or two weeks, maybe it will be a month. At some point if you stop watching TV and talking to people and attending to your thoughts all day, if you relax from attending to your mind forms and all the forms of the feminine–which is everything that changes–if you allow your attention to stop seeking feminine fulfillment momentarily and allow your attention to resolve into its heart-source, you will be living your mission, in that moment. 
+
+You then allow your body to be animated by that mission. It is very specific. So if you sit there for a week or two, suddenly you might feel, “Before I die, I have to form a business to sell this product that I am interested in. I just keep thinking about it.” So you get off the cushion and form the business. It might take 10 years, 5 years, one year, but you form the business. You sell the thing you feel you have to. When that no longer moves you, that mission dissolves. That sense of purpose dissolves. A man living his mission has some years of highly focused purpose followed by a resolution of their mission, the accomplishment of their mission or the evaporation of their mission, and then they are back to no mission, to no purpose, to being.
+
+Be wide open to the manifestation of existence through your being, living in a state of “beginner’s mind” as some people call it, acting with precision. You don’t say, “I don’t know, so I will go to Bali and play.” You say, “I don’t know, so I will sit upright as open awareness until I know.” You don’t distract yourself with beaches, playmates, and oceans, searching for things that are merely delicious.  **All of those things are why most men don’t know their mission**. They are basically chasing the attractive possibilities of mind, of sensuality, of adventure, seeking the feminine as a form of entertainment, rather than relaxing open as deep consciousness, choicelessly gifting, just as they are.
+
+ " - from this [interview](https://deida.info/2016/02/14/deep-purpose/)
+
 ## Dedication
 
-"Neither woman nor world can be second-guessed, or fooled. They know when you are just dicking around. They want to receive you for real."
+**"Neither woman nor world can be second-guessed, or fooled. They know when you are just dicking around. They want to receive you for real."**
 
 "Otherwise, if you sheepishly penetrate them to gratify your own needs, your woman and the world will feel your lack of dedication, depth, and truth. Rather than yielding in love to your loving, they will distract you, suck your energy, and draw you into endless complications, so that your life and relationship become an almost constant search for release from constraint."
 
@@ -80,7 +91,7 @@ categories: entrepreneurship, inner-game
 
 ## Do Mode
 
-"This “do mode” is one of men’s biggest strengths and weaknesses. It’s great to be able to plow through obstructions and get the job done. And it’s good to keep yourself disciplined and on purpose. But if you forget your larger purpose while pursuing the small and endless tasks of daily life, then you have reduced yourself to a machine of picayune."
+**"This “do mode” is one of men’s biggest strengths and weaknesses. It’s great to be able to plow through obstructions and get the job done. And it’s good to keep yourself disciplined and on purpose. But if you forget your larger purpose while pursuing the small and endless tasks of daily life, then you have reduced yourself to a machine of picayune."**
 
 "Tasks are important, but no amount of duties adds up to love, freedom, or full consciousness."
 
@@ -104,13 +115,13 @@ categories: entrepreneurship, inner-game
 
 "If you remain full and strong, humorous and happy, your truth unperturbed by her testing, then you pass the test."
 
-"It never ends. This is the secret. You can’t get out of it. Finding a different woman won’t get you out of it. Therapy won’t get you out of it. Financial or sexual mastery won’t get you out of it. Your woman is testing you because she loves you. She wants to feel your truth. She wants to feel your love. And she wants to feel that your truth and love are stronger than the barbs she can throw at you. Then she can relax and surrender into the polarity of man and woman. Then she can trust you."
+"It never ends. This is the secret. You can’t get out of it. Finding a different woman won’t get you out of it. Therapy won’t get you out of it. Financial or sexual mastery won’t get you out of it. **Your woman is testing you because she loves you.** She wants to feel your truth. She wants to feel your love. And she wants to feel that your truth and love are stronger than the barbs she can throw at you. Then she can relax and surrender into the polarity of man and woman. Then she can trust you."
 
 "The most loving women are the women who will test you the most. She wants you to be your fullest, most magnificent self. She won’t settle for anything less."
 
 ## Polarity
 
-"If you want real passion, you need a ravisher and a ravishee; otherwise, you just have two buddies who decide to rub genitals in bed."
+**"If you want real passion, you need a ravisher and a ravishee; otherwise, you just have two buddies who decide to rub genitals in bed."**
 
 "Regardless of gender or sexual orientation, if you want to experience deep spiritual and sexual fulfillment, you must know your natural sexual essence—masculine, feminine, or balanced—and live true to it."
 
