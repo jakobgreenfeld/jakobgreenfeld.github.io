@@ -14,6 +14,8 @@ categories: entrepreneurship, inner-game
 
 ## Purpose/Mission
 
+"I think people misunderstand what mission is and what purpose is. It is not something you have or don’t have; it is something you are ignoring or not ignoring in the present moment. Finding your purpose is fully sinking into the present moment and letting reality manifest through you as a gift to all." - from this [Interview](https://deida.info/2016/02/14/deep-purpose/)
+
 "If you have a more masculine sexual essence, you would, of course, enjoy staying home and playing with the kids, but deep down, you are driven by a sense of mission. You may not know your mission, but unless you discover this deep purpose and live it fully, your life will feel empty at its core, even if your intimate relationship and family life are full of love."
 
 "Without a conscious life-purpose a man is totally lost, drifting, adapting to events rather than creating events. Without knowing his life-purpose a man lives a weakened, impotent existence, perhaps eventually becoming even sexually impotent, or prone to mechanical and disinterested sex."

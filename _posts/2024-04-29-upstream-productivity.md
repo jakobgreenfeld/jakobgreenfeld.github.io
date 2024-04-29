@@ -1,0 +1,64 @@
+---
+title: Upstream Productivity - or the day you finally stopped caring about producivity systems
+published: true
+layout: post
+permalink: 
+excerpt:
+image: /images/default.png
+categories: entrepreneurship, inner-game
+---
+
+I wrote to get ideas out of my system.
+
+I'm always on chewing on multiple questions simoultaneously until I get a vague feeling that ideas are starting to fall into place.
+
+Then I start writing to see if that's actually the case.
+
+Often I can neither articulate the question nor the answer when I start writing.
+
+But surprisingly often once I start writing the answer and question start to make sense.
+
+One thing I have been chewing on for a while is productivity.
+
+It's a huge topic with thousands of books written about it.
+
+And like many people I do feel a natural pull to read as many books and articles about it as possible.
+
+But slowly I've started to feel like I'm finally able to strip away the lies and get to the bottom of it.
+
+One observation is that most people who write about productivity [have no serious context of use](https://notes.andymatuschak.org/z51q8prEJzs5Jqa5WPThYoV).
+
+They get nothing meaningful done besides dreaming up systems for getting stuff done.
+
+A second observation is that the people who do get meaningful stuff never use similar productivity systems, if they use anything that deserves this label at all.
+
+Taken together this makes it crystal clear that better productivity systems are not the answer you are looking for.
+
+Productivity is just yet another instance where people overcomplicate to profit.
+
+And everyone is happily eating it up. 
+
+It's a convenient way of procrastination. 
+
+This is no different than people obessing over their workout routines and whatever the latest fitness guru is preaching instead of just lifting the damn weights.
+
+When it comes to productivity the answer is actually a lot simpler.
+
+Productivity is largely upstream of your metabolic health and your sense of purpose.
+
+{:.centered}
+![](/images/upstream_productivity.png)
+
+This becomes obvious if we use inversion.
+
+When you feel like shit, maybe because you drank too much last night, maybe because you just ate a lot of junk, maybe because you haven't moved your body in a while, maybe because you're not getting enough sunlight exposure or lacking fresh air, it's impossible to get anything done.
+
+Similarly, when you do not truly care about the things you're trying to get done, it always feels like a huge uphill battle.
+
+But when you truly care about the work you do and your body feels amazing, productivity becomes effortless.
+
+So what productivity boils down to is taking care of your body and finding a mission you can fully get behind.
+
+How to do that?
+
+These are the next right questions to chew on.
