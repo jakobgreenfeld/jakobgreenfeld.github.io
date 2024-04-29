@@ -35,11 +35,9 @@ Taken together this makes it crystal clear that better productivity systems are 
 
 Productivity is just yet another instance where people overcomplicate to profit.
 
-Motivation hacks, building a second brain, whatever.
+Motivation hacks, building a second brain, ...everyone is happily eating it up. 
 
-And everyone is happily eating it up. 
-
-It's a convenient way of procrastination. 
+It's a convenient way to procastinate.
 
 This is no different than people obessing over their workout routines and what the latest fitness guru is preaching instead of just lifting the damn weights.
 
