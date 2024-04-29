@@ -58,7 +58,7 @@ Similarly, when you do not truly care about the things you're trying to get done
 
 When you [truly care about the work you do](https://jakobgreenfeld.com/way-of-man-deida) and your body feels amazing, productivity becomes effortless.
 
-And importantly productivity is not about getting more done but producing more stuff that actually matters to you and others.
+Importantly productivity is not about getting more done but producing more stuff that actually matters to you and others.
 
 This is why taking care of your biological health, your energy levels, and working on things that truly excite you are the key factors.
 
