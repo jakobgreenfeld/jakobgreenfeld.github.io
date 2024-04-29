@@ -50,11 +50,13 @@ Productivity is largely upstream of your metabolic health and your sense of purp
 
 This becomes obvious if we use inversion.
 
-When you feel like shit, maybe because you drank too much last night, maybe because you just ate a lot of junk, maybe because you haven't moved your body in a while, maybe because you're not getting enough sunlight exposure or lacking fresh air, it's impossible to get anything done.
+When you feel like shit, maybe because you drank too much last night, maybe because you just ate a lot of junk, maybe because you haven't moved your body in a while, maybe because you're not getting enough sunlight exposure or lacking fresh air, maybe because you're not breathing correctly, maybe because [you're not going on enough walks](https://www.charlottegrysolle.com/the-most-underrated-brain-exercise/), it's impossible to get anything done.
+
+[Biological health is upstream of mental health](https://justinmares.substack.com/p/the-next-episode-53) and mental health is upstream of productivity.
 
 Similarly, when you do not truly care about the things you're trying to get done, it always feels like a huge uphill battle.
 
-But when you truly care about the work you do and your body feels amazing, productivity becomes effortless.
+But when you [truly care about the work you do](https://jakobgreenfeld.com/way-of-man-deida) and your body feels amazing, productivity becomes effortless.
 
 So what productivity boils down to is taking care of your body and finding a mission you can fully get behind.
 
