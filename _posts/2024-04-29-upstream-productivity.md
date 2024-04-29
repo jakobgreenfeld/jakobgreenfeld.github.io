@@ -35,7 +35,7 @@ Taken together this makes it crystal clear that better productivity systems are 
 
 Productivity is just yet another instance where people overcomplicate to profit.
 
-Motivation hacks, building a second brain, ...everyone is happily eating it up. 
+Motivation hacks, building a second brain,... everyone is happily eating it up. 
 
 It's a convenient way to procastinate.
 
@@ -60,7 +60,7 @@ When you [truly care about the work you do](https://jakobgreenfeld.com/way-of-ma
 
 And importantly productivity is not about getting more done but producing more stuff that actually matters to you and others.
 
-This is why taking care of your biological health, your energy levels, and working on things that truly excite you are key.
+This is why taking care of your biological health, your energy levels, and working on things that truly excite you are the key factors.
 
 Anything you put out into the world contains [traces of your energy when you created it](https://www.youtube.com/watch?v=3TNm8MJXKfc). All work is a form of energy transfer.
 
