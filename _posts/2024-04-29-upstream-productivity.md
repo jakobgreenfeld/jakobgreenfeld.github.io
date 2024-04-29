@@ -56,7 +56,7 @@ When you feel like shit, maybe because you drank too much last night, maybe beca
 
 Similarly, when you do not truly care about the things you're trying to get done, it always feels like a huge uphill battle.
 
-When you truly care about the work you do and your body feels amazing, productivity becomes effortless.
+But when you truly care about the work you do and your body feels amazing, productivity becomes effortless.
 
 Importantly productivity is not about getting more done but producing more stuff that actually matters to you and others.
 
@@ -66,7 +66,7 @@ Anything you put out into the world contains [traces of your energy when you cre
 
 People can sense whether you're just [just dicking around](](https://jakobgreenfeld.com/way-of-man-deida)) or genuinly care about what you do.
 
-So what productivity boils down to is taking care of your body and finding a mission you can fully get behind.
+So in summary, productivity is first and foremost a matter of taking care of your body and finding a mission you can fully get behind.
 
 How to do that?
 
