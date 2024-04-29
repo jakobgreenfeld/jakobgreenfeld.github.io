@@ -31,7 +31,7 @@ They get nothing meaningful done besides dreaming up systems for getting stuff d
 
 A second observation is that the people who do get meaningful stuff never use similar productivity systems, if they use anything that deserves this label at all.
 
-Taken together this makes it crystal clear that better productivity systems are not the answer you are looking for.
+Taken together this makes it crystal clear that better productivity systems are not the answer I'm looking for.
 
 Productivity is just yet another instance where people overcomplicate to profit.
 
