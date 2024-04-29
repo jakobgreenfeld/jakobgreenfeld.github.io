@@ -7,9 +7,9 @@ image: /images/upstream-productivity.png
 categories: entrepreneurship, inner-game
 ---
 
-I wrote to get ideas out of my system.
+I write to get ideas out of my system.
 
-I'm always on chewing on multiple questions simoultaneously until I get a vague feeling that ideas are starting to fall into place.
+I'm always chewing on multiple questions simoultaneously until I get a vague feeling that ideas are starting to fall into place.
 
 Then I start writing to see if that's actually the case.
 
