@@ -9,7 +9,7 @@ categories: entrepreneurship, inner-game
 
 I write to get ideas out of my system.
 
-I'm always chewing on multiple questions simoultaneously until I get a vague feeling that some ideas are starting to fall into place.
+I'm always chewing on multiple questions simultaneously until I get a vague feeling that some ideas are starting to fall into place.
 
 Then I start writing to see if that's actually the case.
 
