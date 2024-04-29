@@ -46,7 +46,7 @@ When it comes to productivity the answer is actually a lot simpler.
 Productivity is largely upstream of your biological health and your sense of purpose.
 
 {:.centered}
-![](/images/upstream_productivity2.png)
+![](/images/upstream_productivity3.png)
 
 This becomes obvious if we use inversion.
 
