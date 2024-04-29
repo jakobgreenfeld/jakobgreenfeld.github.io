@@ -1,5 +1,5 @@
 ---
-title: Upstream Productivity - or the day you finally stopped caring about producivity systems
+title: Upstream Productivity - or the day you stopped caring about productivity advice
 published: true
 layout: post
 permalink: 
