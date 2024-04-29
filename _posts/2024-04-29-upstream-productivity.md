@@ -64,7 +64,7 @@ This is why taking care of your biological health, your energy levels, and worki
 
 Anything you put out into the world contains [traces of your energy when you created it](https://www.youtube.com/watch?v=3TNm8MJXKfc). All work is a form of energy transfer.
 
-People can sense whether you're just just dicking around or genuinly care about the work you put out.
+People can sense whether you're just just dicking around or genuinly care about the work do.
 
 So what productivity boils down to is taking care of your body and finding a mission you can fully get behind.
 
