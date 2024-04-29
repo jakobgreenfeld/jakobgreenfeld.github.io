@@ -43,7 +43,7 @@ This is no different than people obessing over their workout routines and what t
 
 When it comes to productivity the answer is actually a lot simpler.
 
-Productivity is largely upstream of your metabolic health and your sense of purpose.
+Productivity is largely upstream of your biological health and your sense of purpose.
 
 {:.centered}
 ![](/images/upstream_productivity2.png)
@@ -56,13 +56,15 @@ When you feel like shit, maybe because you drank too much last night, maybe beca
 
 Similarly, when you do not truly care about the things you're trying to get done, it always feels like a huge uphill battle.
 
-Anything you put out into the world contains [traces of your energy when you created it](https://www.youtube.com/watch?v=3TNm8MJXKfc). All work is a form of energy transfer.
-
-People just know whether you're just just dicking around or genuinly care about work you put out.
-
 When you [truly care about the work you do](https://jakobgreenfeld.com/way-of-man-deida) and your body feels amazing, productivity becomes effortless.
 
-You're getting stuff done that matters to you and others.
+And importantly productivity is not about getting more done but producing more stuff that actually matters to you and others.
+
+This is why taking care of your biological health, your energy levels, and working on things that truly excite you are key.
+
+Anything you put out into the world contains [traces of your energy when you created it](https://www.youtube.com/watch?v=3TNm8MJXKfc). All work is a form of energy transfer.
+
+People can sense whether you're just just dicking around or genuinly care about the work you put out.
 
 So what productivity boils down to is taking care of your body and finding a mission you can fully get behind.
 
