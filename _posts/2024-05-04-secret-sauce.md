@@ -48,7 +48,7 @@ The second reason is that your attitude and behavior does have a real affect on 
 
 When you approach people with an attitude that subconsciously signals that you expect them not to like you, they will pick up on that and most [people will behave exactly in the way you expect them to](https://jakobgreenfeld.com/mirror).
 
-When you walk around truly convinced you're the most attractive or interesting person in the room, people will perceive you as such.
+When you walk around truly convinced you're the most attractive or interesting person in the room, people will perceive you as such and start treating you accordingly.
 
 Only very recently I've started to understand how much this also affects my entrepreneurial journey.
 
