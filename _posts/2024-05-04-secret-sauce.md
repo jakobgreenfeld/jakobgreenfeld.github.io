@@ -8,9 +8,9 @@ image: /images/default.png
 categories: entrepreneurship, inner-game
 ---
 
-A young man decided to travel the world in search of a place where he could find happiness and maybe the love his life. One day he arrived in a small town and met an old man sitting by a fountain in the central square.
+A young man decided to travel the world in search of a place where he could find happiness and maybe the love of his life. One day he arrived in a small town and met an old man sitting by a fountain in the central square.
 
-The young man approached the old man and asked, "Excuse me,I'm new to this town. Can you tell me what the women are like here?"
+The young man approached the old man and asked, "Excuse me, I'm new to this town. Can you tell me what the women are like here?"
 
 The old man looked at the traveler and replied, "How were the women in the place you came from?"
 
@@ -58,7 +58,7 @@ All of my personal experiences seem to confirm that this is true.
 
 I might be able to make a lot of money one month, but then things take a downturn and on average my returns are pretty average.
 
-But as, for example, Peter Thiel points out to generate outsized returns you have to belief that violations of the efficient market hypothesis are indeed possible.
+But as, for example, Peter Thiel points out, to generate outsized returns you have to believe that violations of the efficient market hypothesis are indeed possible.
 
 You must ["believe that there are lucrative secrets hidden in plain sight"](https://slatestarcodex.com/2019/01/31/book-review-zero-to-one/) in order to find one.
 
@@ -70,7 +70,7 @@ First, if you don't believe you can do it, you won't even try. You won't even da
 
 Second, even if you do pick an ambitious project, the world will pick up on the fact that you're not truly convinced that you can do it.
 
-Subconsciously, you keep signaling that [you’re just just dicking around.](https://jakobgreenfeld.com/way-of-man-deida)
+Subconsciously, you keep signaling that [you’re just dicking around.](https://jakobgreenfeld.com/way-of-man-deida)
 
 You will not have the stamina to stick with it when things get tough. And ambitious projects always get tough.
 
@@ -90,7 +90,7 @@ What is their secret sauce?
 
 I do believe this is the answer.
 
-More than [innate talents](https://guzey.com/why-is-there-only-one-elon-musk/), [first-principles thinking](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html), [having a theory of change](http://www.aaronsw.com/weblog/theoryofchange), or [systemic factors](https://imechanica.org/files/no-new-einstein.pdf), it's their deep believe that they can have a meaningful impact that makes all the difference.
+More than [innate talents](https://guzey.com/why-is-there-only-one-elon-musk/), [first-principles thinking](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html), [having a theory of change](http://www.aaronsw.com/weblog/theoryofchange), or [systemic factors](https://imechanica.org/files/no-new-einstein.pdf), it's their deep belief that they can have a meaningful impact that makes all the difference.
 
 I recently argued that [productivity is largely upstream of your biological health and your sense of purpose](https://jakobgreenfeld.com/upstream-productivity/).
 
@@ -118,6 +118,6 @@ It of course would be cool to come up with a neat step-by-step protocol at this 
 
 But one thing I'm working on is being content arriving at a better question and resisting the urge to jump to quick answers.
 
-My answer would sound logical but it most definitely would be completly wrong.
+My answer would sound logical but it most definitely would be completely wrong.
 
 What I'm confident in, however, is that I now arrived at the next right question to explore.
