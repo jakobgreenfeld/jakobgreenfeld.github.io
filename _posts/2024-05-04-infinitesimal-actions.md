@@ -1,5 +1,5 @@
 ---
-title: On the difficulty of grasping the impact of infinitesimal actions
+title: On the importance of infinitesimal actions
 published: true
 layout: post
 permalink: infinitesimal-actions
