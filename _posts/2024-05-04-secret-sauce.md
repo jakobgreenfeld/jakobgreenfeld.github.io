@@ -92,7 +92,7 @@ I do believe this is the answer.
 
 More than [innate talents](https://guzey.com/why-is-there-only-one-elon-musk/), [first-principles thinking](https://waitbutwhy.com/2015/11/the-cook-and-the-chef-musks-secret-sauce.html), [having a theory of change](http://www.aaronsw.com/weblog/theoryofchange), or [systemic factors](https://imechanica.org/files/no-new-einstein.pdf), it's their deep belief that they can have a meaningful impact that makes all the difference.
 
-I recently argued that [productivity is largely upstream of your biological health and your sense of purpose](https://jakobgreenfeld.com/upstream-productivity/).
+I recently argued that [productivity is largely downstream of your biological health and your sense of purpose](https://jakobgreenfeld.com/upstream-productivity/).
 
 In the same way, your belief, attitude, mindset, self-image, whatever you want to call it is largely upstream of you capacity to leave a dent in the universe.
 
