@@ -29,7 +29,7 @@ One observation is that most people who write about productivity [have no seriou
 
 They get nothing meaningful done besides dreaming up systems for getting stuff done.
 
-A second observation is that the people who do get meaningful stuff never use similar productivity systems, if they use anything that deserves this label at all.
+A second observation is that the people who do get meaningful stuff done never use similar productivity systems, if they use anything that deserves this label at all.
 
 Taken together this makes it crystal clear that better productivity systems are not the answer I'm looking for.
 

@@ -5,7 +5,7 @@ layout: post
 permalink: agency-positioning
 excerpt: In many service categories all people want is a reliable resource.
 image: /images/default.png
-categories: entrepreneurship, inner-game
+categories: entrepreneurship
 ---
 
 The agency landscape is more competitive than ever. 
