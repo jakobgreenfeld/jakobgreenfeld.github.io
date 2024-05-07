@@ -1,0 +1,154 @@
+---
+title: Not too tight, not too loose, and not half way - the art of ochestrating life
+published: true
+layout: post
+excerpt: For every piece of advice there is just as much contradicting advice.
+image: /images/default.png
+categories: entrepreneurship, inner-game
+---
+
+We all want simple answers.
+
+When someone comes around and offers a simple answer, everyone is happily eating it up.
+
+Simple answer expressed with enough confidence are irresistible.
+
+I read dozens of books on the how to be more successsful, listened to hundreds of hours of podcasts, scrolled through thousands of tweets, and watched far too many videos on the topic.
+
+Many times I felt like I finally found the one golden nugget - only to quickly learn that it in fact wasn't.
+
+For every piece of advice there is just as much contradicting advice.
+
+For every rule there are countless exceptions.
+
+Focus on quality. Fully commit. Follow your passion.
+
+NO! Focus on quantity. Diversify. Follow the money.
+
+Be intentional. Carefully work backwards. Plan every step.
+
+NO! Only action produces information. Just follow your curiosity and trust the process.
+
+Work alone. Stay indepdenent. Bootstrap.
+
+NO! Build a team. Leverage other people's time. Raise money.
+
+There are perfectly valid explanations for every piece of advice and many convincing stories supporting them.
+
+I invested hundreds of hours only to be left more confused than when I started.
+
+This went on until it finally occured to me: that's the lesson life is trying to teach me.
+
+Life has a habit of repeating lessons until they are learned. 
+
+I didn't learn my lesson because I was too busy looking for golden nuggets.
+
+I went on a year-long hunt for the principles, habits, and frameworks that would make me successful and all I got was a huge overarching meta lesson. (How's that for a t-shirt slogan?)
+
+The fact that there are no universally applicable answers *is* the only valid universally applicable answer.
+
+"It depends" is the one answer that is universally true but also universally unsatisfying.
+
+One way to face this reality is to get mad and scream charlatan whenever you find out that some advice that was advertised as universally applicable is in fact not.
+
+But there is a much more useful frame.
+
+## The Orchestra
+
+Everything you learn, each idea, each piece of advice is like an instrument in an orchestra.†
+
+It doesn't make sense to ask a conductor what instrument is the best.
+
+The one "instrument" a conductor focuses on is time.
+
+Knowing when and how to utilize each member of ensemble, how to combine them, and when to let them play solo is what a conductor does.
+
+Not obsessing over which instrument is the best.
+
+The choice is yours.
+
+Either you end up dazed and confused. Angry. Paralyzed.
+
+Or you can learn to orchestrate beautiful music in the face of ambiguity and variety.
+
+"First-rate intelligence is the ability to hold two opposed ideas in mind at the same time and still retain the ability to function." as F. Scott Fitzgerald put it.
+
+You need a fluid process of "making and breaking frame".
+
+The most successful people are able to act boldly on conflicting information.
+
+That's the big meta lesson.
+
+And it's not as crazy as it sounds.
+
+## The opposite of good ideas
+
+There are ideas that fundamentally change how you see the world.
+
+One such idea is Rory Sutherland's observation that the opposite of a good idea can also be a good idea.
+
+Red Bull is a product that tastes worse than Coke, is more expensive, and comes in a smaller can. 
+
+And nevertheless, it’s selling like crazy. Red Bull sells over 7.5 billion cans per year.
+
+The small can, high price and terrible taste all help to establish the brand image that Red Bull is a performance-enhancing supplement.
+
+Most rock bands play predetermined arrangements of their music, and they practice obsessively to achieve their desired result: the ability to play note-perfect versions of their songs.
+
+The Grateful Dead did the opposite.
+
+The members weren’t interested in achieving perfection and then repeating themselves. 
+
+They prided themselves on never playing the same song the same way twice.
+
+As a result, fans felt as if anything could happen at any time and their concerts were always sold out.
+
+The world is far too complex for universal advice.
+
+Conflicting ideas can be both perfectly valid.
+
+## Truth is overrated
+
+I spent all my twenties studying physics.
+
+Physics is one big quest for truth.
+
+But as I transitioned out of academia, I started to realize that in the real world truth is overrated.
+
+Reality has a surprising amount of detail. All models are wrong. The map is not the territory.
+
+Usefulness is a far better yardstick than truth.
+
+Divide golfers into two groups and give them identical clubs, but tell one group that they are using Nike clubs. These golfers need fewer strokes to sink a golf ball in a hole than volunteers who think they are using non-brand-name golf clubs.
+
+Tell two groups to drink an energy drink that improves mental ability. One group gets the drink at a discount, the other at full price. The group that paid full price performs better on problem-solving tasks.
+
+Jim Cantrell, who was on the SpaceX cofounding team with Elon Musk, is convinced that the key factor that sets Elon apart is his "inability to consider failure". 
+
+Is it actually true that Elon Musk cannot fail? Of course not. But it's undeniably serving him well.
+
+I was a horrible student until I read Outliers by Malcolm Gladwell. I convinced myself that talent doesn't matter and became a straight-A student.
+
+Behavioral psychologists Stephen M. Garcia and Avishalom Tor demonstrated that merely knowing there are more competitors in a competition decreases performance.
+
+Life is also a lot more fun when you participate in shared hallucinations instead of sticking to the truth all the time.
+
+People do experiene more pleasure when drinking a $10 wine from a $90 bottle, than when drinking a $10 wine from a $10 bottle.
+
+Your expectations actually turn into reality. 
+
+It's easy to call people who care about fine wine dumb.
+
+But if you choose to participate in the shared hallucination, your life actually becomes richer.
+
+Being delusional often works in your favor.
+
+You need to be a hyperrealist and delusional.
+
+You need to be rational and irrational.
+
+You need to be intentional and follow the flow.
+
+There is no contradiction.
+
+† h/t to Derek Sivers for this analogy
