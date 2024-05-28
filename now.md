@@ -11,6 +11,10 @@ Working on:
 * [Sales.co](https://sales.co) - cold email as a service.
 * Teach Yourself Success - book 
 
+Looking for:
+
+* Connecting with fellow 7-figure agency owners
+
 Thinking about:
 
 * agency growth, reducing churn
