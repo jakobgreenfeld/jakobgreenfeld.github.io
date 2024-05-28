@@ -10,7 +10,7 @@ categories: profiles
 
 
 
-Most of the books that I want to read during my [Bootstrap MBA experiment](bootstrap.mba) focus on just one specific topic. This makes sense because book that cover too many topics usually don't go deep enough to be useful. However, I thought that it wouldn't hurt to read at least one "general purpose" book that covers a lot of ground and thus can give me some orientation at the beginning of my journey. Initially, I decided to read Pieter Level's book MAKE which is subtitled "The Bootstrapper's Handbook" and has gathered [a lot of praise](https://blog.producthunt.com/winners-of-the-2018-golden-kitty-awards-are-revealed-881c205a1e1f#9c68) in the maker community. 
+Most of the books that I want to read during my [Bootstrap MBA experiment](/mba) focus on just one specific topic. This makes sense because book that cover too many topics usually don't go deep enough to be useful. However, I thought that it wouldn't hurt to read at least one "general purpose" book that covers a lot of ground and thus can give me some orientation at the beginning of my journey. Initially, I decided to read Pieter Level's book MAKE which is subtitled "The Bootstrapper's Handbook" and has gathered [a lot of praise](https://blog.producthunt.com/winners-of-the-2018-golden-kitty-awards-are-revealed-881c205a1e1f#9c68) in the maker community. 
 
 But since I wasn't fully satisfied with Pieter's book, I started looking for alternatives. A book that is often mentioned alongside with Pieter's book is Start Small, Stay Small by Rob Walling. Thus I decided to give it a shot and, I have to say that this time, I wasn't disappointed. It's a great book for aspiring boootstrappers, full of actionable advice that I hadn't read or heard a dozen of times elsewhere. 
 
