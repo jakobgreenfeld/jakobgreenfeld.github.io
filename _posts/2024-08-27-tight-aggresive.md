@@ -132,4 +132,4 @@ I don't think it's serving them well.
 
 And I don't think it's serving me well.
 
-So now I'm trying to play tight aggressive.
+So now I'm trying to find the right balance and play tight aggressive.
