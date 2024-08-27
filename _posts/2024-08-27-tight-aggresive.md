@@ -84,19 +84,18 @@ Founders in "analysis paralysis mode" are afraid that always might be a better o
 
 The catch is of course that all estimates are of course purely based on gut feeling. This is what makes entrepreneurship so much harder than poker. But that's also why the potential payoffs are so much higher.
 
-Some quick napkin math always helps. To generate $1k in profit I need to sell 13 units of a $100 product, assuming ~75% profit margin. That seems doable but doing it consistently month after month is a challenge. Moreover, who knows if I will get ads to work at a level where I can acquire customers for less than $100 and make a profit at all. 10% odds of success seems reasonable.
+A few useful rules:
 
-For $10k, I would need to sell 130 units. These are not repeat buyers so finding 130 new customers every month is a challenge. Here I need two miracles. The ads need to work and they need to scale. So a 2% chance of success seems reasonable.
+- Some quick napkin math always helps. To generate $1k in profit I need to sell 13 units of a $100 product, assuming ~75% profit margin. That seems doable but doing it consistently month after month is a challenge. Moreover, who knows if I will get ads to work at a level where I can acquire customers for less than $100 and make a profit at all. 10% odds of success seems reasonable. For $10k, I would need to sell 130 units. These are not repeat buyers so finding 130 new customers every month is a challenge. Here I need two miracles. The ads need to work and they need to scale. So a 2% chance of success seems reasonable.
+- A good rough estimate for the odds of big wins in business is 2-5%. So if you're unsure, just use something in that range. Factors that signficantly shif the odds are if you can sell a product to an existint audience you have direct access to or to people in your immediate network. If you're purely reliant on converting cold traffic the odds are much lower.
+- Another good rule of thumb is that you can validate new projects quite reliably with a $2k-$5k marketing budget. After spending that much you usually have a good idea if there is any pull from the market.
+- Nowadays, an MVP for many projects can be built in 2-4 weeks. 
+- You dollarized hourly rate heavily depends on where you are in your journey. If you're just starting out, $100/hour might not seem too bad. For more experienced founders, hardly anthing below $1k/hour makes sense.
+- For the potential upside, you can look at revenue numbers of comparable projects. Revenue numbers are often not public but you can get an estimate (depending on industry) by multiplying headcount by the median revenue per employee in that industry. For example, for SaaS companies, you can use $200k/employee. For agencies, you can use $150k/employee.
+- The total value of a project in any scenario is the money you could sell it for. For SaaS companies, the multiple is often 5-10x revenue. For agencies, it's often 1-2x revenue.
+- You will find that a lot of projects have an expected value of around a few thousand dollars. It might make sense to take such a bet if you're just starting out. But if you're playing tight aggressive, these are presicely the kind of hands you should fold. The expected value has to be a number that gets you excited. If it's not, you're better off searching for a better opportunity.
 
-A good rough estimate for big wins in business 2-5%. So if you're unsure, just use something in that range.
-
-Factors that signficantly shif the odds are if you can sell a product to an existint audience you have direct access to or to people in your immediate network. If you're purely reliant on converting cold traffic the odds are much lower.
-
-For the potential upside, you can look at revenue numbers of comparable projects. Revenue numbers are often not public but you can get an estimate (depending on industry) by multiplying headcount by $X. For example, for SaaS companies, you can use $200k/employee. For agencies, you can use $150k/employee.
-
-The total value of a project in any scenario is the money you could sell it for. For SaaS companies, the multiple is often 5-10x revenue. For agencies, it's often 1-2x revenue.
-
-This is not an exact science but gives you directionally correct numbers fast.
+This is not an exact science but gives you directionally helpful numbers fast.
 
 Now the second key to playing tight aggressive is to pursue your bets with intensity once you've made one.
 
