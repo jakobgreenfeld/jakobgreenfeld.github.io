@@ -132,6 +132,8 @@ But it's obvious when you see other people play too tight or too loose.
 
 I don't think it's serving them well.
 
-And I don't think it's serving me well.
+So it seems dumb to assume that it's serving me well.
 
-So now I'm trying to find the right balance and play tight aggressive.
+I'm trying to play more tight aggressive.
+
+And you probably should too.
