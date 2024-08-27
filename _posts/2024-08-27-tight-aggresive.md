@@ -118,6 +118,8 @@ Now there is of course no right or wrong way of pursuing entrepreneurship.
 
 Just like in poker there are people that win big with an extremely tight style and people that win big with an extremely loose style.
 
+But the vast majority of world class players play tight aggressive.
+
 I've personally oscillated between playing too tight and too loose.
 
 Shipped a bunch of crap without thinking about it. 
