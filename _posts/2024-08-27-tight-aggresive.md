@@ -94,7 +94,7 @@ A few useful rules:
 - For the potential upside, you can look at revenue numbers of comparable projects. Revenue numbers are often not public but you can get an estimate (depending on industry) by multiplying headcount by the median revenue per employee in that industry. For example, for SaaS companies, you can use $200k/employee. For agencies, you can use $150k/employee.
 - The total value of a project in any scenario is the money you could sell it for. For SaaS companies, the multiple is often 5-10x revenue. For agencies, it's often 1-2x revenue.
 - You will find that a lot of projects have an expected value of around a few thousand dollars. It might make sense to take such a bet if you're just starting out. But if you're playing tight aggressive, these are presicely the kind of hands you should fold. The expected value has to be a number that gets you excited. If it's not, you're better off searching for a better opportunity.
-- For most projects your costs will me marginal compared to the potential upside and pretty similar among projects. So to simplify things, you can simply focus on the potential upside, especially if your goal is to compare multiple projects.
+- For many projects your costs will me marginal compared to the potential upside and pretty similar among projects. So to simplify things, you can focus on the potential upside, especially if your goal is to compare multiple projects.
 
 This is not an exact science but gives you directionally helpful numbers fast.
 
