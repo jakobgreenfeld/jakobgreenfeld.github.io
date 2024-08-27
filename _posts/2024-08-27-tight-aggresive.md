@@ -118,4 +118,18 @@ Now there is of course no right or wrong way of pursuing entrepreneurship.
 
 Just like in poker there are people that win big with an extremely tight style and people that win big with an extremely loose style.
 
-But tight aggresive is the style that works for most people.
+I've personally oscillated between playing too tight and too loose.
+
+Shipped a bunch of crap without thinking about it. 
+
+Stopped shipping waiting for the perfect opportunity.
+
+It's always hard to see this from the inside.
+
+But it's obvious when you see other people play too tight or too loose.
+
+I don't think it's serving them well.
+
+And I don't think it's serving me well.
+
+So now I'm trying to play tight aggressive.
