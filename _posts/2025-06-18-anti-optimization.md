@@ -100,6 +100,12 @@ Not every movie recommended by a movie critic will make you feel good.
 
 Most risky marketing campaign will fail spectacularly.
 
-But that's exactly the point.
+But that's precisely the point.
 
 The imperfections, rough edges and unpredictability are where the soul lives.
+
+It's what makes the human experience human.
+
+Everyone wants frictionless experiences these days. But smooth experiences are boring. Rough edges are where personality lives.
+
+When you do find something with actual soul, the payoff is way bigger than optimized alternatives.
