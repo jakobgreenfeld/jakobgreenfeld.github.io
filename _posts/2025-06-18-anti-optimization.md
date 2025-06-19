@@ -94,9 +94,9 @@ You can still subscribe to magazines run by editors with taste that are then nea
 
 But the core issue is that on average all of these will suck a little bit more than your default optimized experience.
 
-Albums typically contain not just bangers.
+Albums typically contain not just great or even good songs.
 
-Not every movie recommended by a movie critic will make you feel good.
+Not every movie recommended by a movie critic will hook you right away.
 
 Most risky marketing campaign will fail spectacularly.
 
