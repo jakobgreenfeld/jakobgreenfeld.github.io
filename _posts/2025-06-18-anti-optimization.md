@@ -103,11 +103,3 @@ Most risky marketing campaign will fail spectacularly.
 But that's exactly the point.
 
 The imperfections, rough edges and unpredictability are where the soul lives.
-
-TODO It's what makes the human experience human.
-
-TODO teflon people, rough edges. 
-
-TODO the payoff is usually much bigger.
-
-TODO THIS IS GREAT PHRASING Humans don't want perfect information. We want wonder. We want surprise. We want to believe that tomorrow could be fundamentally different from today. We want to feel like protagonists in a story, not NPCs in someone else's simulation.
