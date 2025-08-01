@@ -13,11 +13,9 @@ Working on:
 
 Thinking about:
 
-* agency growth, reducing churn
-* b2b growth
+* growing b2b companies
 
 Reading:
 
-* Not Nice by Aziz Gazipura
-* Imagine by Jonah Lehrer
+* Spin Trilogy by Robert Charles Wilson
 
