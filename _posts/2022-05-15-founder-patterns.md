@@ -106,6 +106,8 @@ There are four forms of leverage:
 
 *"A startup is a company designed to grow fast. Being newly founded does not in itself make a company a startup. Nor is it necessary for a startup to work on technology, or take venture funding, or have some sort of "exit." The only essential thing is growth. Everything else we associate with startups follows from growth."* - [Paul Graham](https://paulgraham.com/growth.html)
 
+What the batches themselves look like has moved a lot since he wrote that. I embedded every YC company with a working domain for [FundingWatcher](https://fundingwatcher.com/research/yc-batch-similarity/), and the share of a batch with a close twin among earlier YC companies went from 18.3% in 2013 to 2019 to 46.5% in Summer 2025.
+
 ## The Startup Curve
 
 ![startup curve](/images/startup-curve.png)

@@ -33,6 +33,8 @@ If they don't find much, they'll ignore the email.
 
 So one of the biggest levers you can pull to improve your outbound results is to work on what shows up when people search for your company and your name.
 
+It cuts the other way too: what you can see about them decides how specific the email can be. I built [Installmap](https://installmap.com/groups) to have that in one place, and the spread is larger than I expected — HubSpot sits on 25.6% of the Inc 5000 and 2.5% of the Fortune 500.
+
 Doing that kind of shadow work will do more for your outbound results than any fancy copywriting, personalization, or automation.
 
 It's really the biggest difference between a cold email that gets ignored and one that gets a reply.

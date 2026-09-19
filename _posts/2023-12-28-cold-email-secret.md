@@ -76,4 +76,6 @@ Not quite as good but easier to track reliably is the number of opportunities or
 
 The deeper you can connect your cold email campaigns with data from your CRM the better.
 
+The same goes for the list side. Knowing that [12.8% of YC companies run PostHog and 1.8% of the Inc 5000 do](https://installmap.com/groups/yc/posthog) tells you which list is worth the sending capacity before you send anything.
+
 If you run this kind of analysis for the first time, be ready for some big surprises on what truly drives meaningful results.
