@@ -3,7 +3,7 @@ title: Three more data sites I built
 published: true
 layout: post
 permalink: 
-excerpt: Every roll I loaded this spring counts entries rather than working people, and on podcasts the two numbers are a factor of ten apart.
+excerpt: Three datasets I loaded count entries rather than working people. On podcasts the two numbers are a factor of ten apart.
 image: /images/default.png
 categories: entrepreneurship, projects
 ---
